@@ -1,8 +1,8 @@
-import React from 'react'
+import { FormPdfWord } from '../components/Index';
 
 const PdfWord = () => {
   return (
-    <div>PdfWord</div>
+    <article><FormPdfWord/></article>
   )
 }
 

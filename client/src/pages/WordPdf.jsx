@@ -1,8 +1,9 @@
-import React from 'react'
+import { FormWordPDF } from "../components/Index";
 
+import './Pages.css';
 const WordPdf = () => {
   return (
-    <div>WordPdf</div>
+    <article><FormWordPDF /></article>
   )
 }
 

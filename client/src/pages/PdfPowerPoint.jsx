@@ -1,8 +1,8 @@
-import React from 'react'
+import { FormPdfPowerPoint } from '../components/Index';
 
 const PdfPowerPoint = () => {
   return (
-    <div>PdfPowerPoint</div>
+    <article><FormPdfPowerPoint/></article>
   )
 }
 

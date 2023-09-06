@@ -9,14 +9,13 @@ import WordPdf from './pages/WordPdf';
 function App() {
   return (
     <div className="App">
-      
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path='/' element={PdfWord} />
-          <Route path="/wordtopdf" element={WordPdf} />
-          <Route path="/pdftopowerpoint" element={PdfPowerPoint}/>
-          <Route path="/powerpointtopdf" element={PowerPointPdf}/>
+          <Route path='/' element={<PdfWord />} />
+          <Route path="/pdftopowerpoint" element={<PdfPowerPoint />} />
+          <Route path="/wordtopdf" element={<WordPdf />}/>
+          <Route path="/powerpointtopdf" element={<PowerPointPdf />}/>
         </Routes>
       </BrowserRouter>
     </div>

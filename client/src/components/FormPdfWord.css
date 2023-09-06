@@ -1,0 +1,25 @@
+.title-form {
+    width: 819px;
+    margin-top: 5rem;
+    color: #014700;
+    font-size: 4rem;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+    border: 2px dashed #0147006b;
+    align-items: center;
+    width: 40rem;
+    height: 15rem;
+    padding: 0 2rem;
+}
+
+.label-file {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
