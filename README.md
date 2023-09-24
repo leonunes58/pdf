@@ -1,6 +1,6 @@
 <h1>Conversor de PDF</h1>
 <h2>Por que?</h2>
-<p>Com o intuito de entender como funcionava o processo de conversão de um PDF para Word e PorwerPoint, decidi desenvolver esse conversor.</p>
+<p>Com o intuito de entender como funcionava o processo de conversão de um PDF para Word e PorwerPoint e por em prática alguns conceitos de back-end através do node, decidi desenvolver esse conversor.</p>
 <h2>Funcionalidades</h2>
 <p>O conversor de PDF tem como principais funcionalidades:</p>
 <ul>
